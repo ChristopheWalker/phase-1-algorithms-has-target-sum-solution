@@ -1,6 +1,6 @@
-# Logs
+  Logs
 logs
-*.log
+ .log
 npm-debug.log*
 
 # Runtime data
@@ -28,3 +28,4 @@ jspm_packages
 .results.json
 
 .DS_Store
+ 
